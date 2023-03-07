@@ -1,0 +1,15 @@
+instalar e iniciar o sequelize/sequelize-cli no terminal
+
+criar a database
+
+criar o migration 
+
+criar o sequelize.js na pasta config
+
+criar o arquivo.js dos dados na pasta models
+
+criar um index.js na raíz (pasta geral Sequelize)
+
+criar uma pasta src, mover o index para lá dentro
+
+fazer uma tabela de patrocinios e times patrocinados?
